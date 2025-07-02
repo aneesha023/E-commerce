@@ -43,7 +43,7 @@
 
 | Admin-AddItems | Admin-ListItems | Admin-Orders |
 |----------------|-----------------|------------------|
-| ![Admin-AddItems](./screenshots/admin1.png) | ![Admin-ListItems](./screenshots/admin2.png) | ![Admin-Orders](./admin3.png) |
+| ![Admin-AddItems](./screenshots/admin1.png) | ![Admin-ListItems](./screenshots/admin2.png) | ![Admin-Orders](./screenshots/admin3.png) |
  
 ---
 
