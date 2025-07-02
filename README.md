@@ -50,8 +50,8 @@
 ## 📬 Contact
 - Aneesha Varma
 - 📧 aneeshavarma23@gmail.com
-- 🔗 LinkedIn
-- 💻 GitHub
+- 🔗 [LinkedIn](https://www.linkedin.com/in/ganapathiraju-aneesha-varma-0939361b2)
+- 💻 [GitHub](https://github.com/aneesha023)
 
 ---
 
