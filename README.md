@@ -1,6 +1,6 @@
 # 🛍️ MERN E-Commerce Website
 
-[![Live Demo](https://img.shields.io/badge/-Live%20Demo-0E76A8?style=for-the-badge&logo=vercel&logoColor=white)](https://[your-vercel-url.vercel.app](https://larabelle-frontend.vercel.app/))
+[![Live Demo](https://img.shields.io/badge/-Live%20Demo-0E76A8?style=for-the-badge&logo=vercel&logoColor=white)](https://larabelle-frontend.vercel.app)
 [![GitHub](https://img.shields.io/github/stars/aneesha023/ecommerce-mern?style=for-the-badge)](https://github.com/aneesha023/E-commerce/stargazers)
 [![Issues](https://img.shields.io/github/issues/aneesha023/ecommerce-mern?style=for-the-badge)](https://github.com/aneesha023/E-commerce/issues)
 
@@ -23,7 +23,7 @@
 ## 🚀 Live Demo
 
 **🌐 [Click here to visit the deployed site](https://larabelle-frontend.vercel.app)** 
-**🌐 [Click here to visit the deployed admin dashboard](((https://larabelle-admin.vercel.app/)))** 
+**🌐 [Click here to visit the deployed admin dashboard](https://larabelle-admin.vercel.app)** 
 
 ---
 
@@ -39,7 +39,7 @@
 
 | Home | Product Page | Cart | Admin Dashboard |
 |------|--------------|------|------------------|
-| ![Home](./screenshots/home.png) | ![Product](./screenshots/product.png) | ![Cart](./screenshots/cart.png) | ![Admin](./screenshots/admin.png) |
+| ![Home](./screenshots/home.png) | ![Collections](./screenshots/collections.png) | ![Product](./screenshots/product.png) | ![Cart](./screenshots/cart.png) | ![Admin-AddItems](./screenshots/admin1.png) | ![Admin-ListItems](./screenshots/admin2.png) | ![Admin-Orders](./admin3/home.png)
 
 ---
 
