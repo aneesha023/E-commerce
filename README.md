@@ -22,8 +22,8 @@
 
 ## 🚀 Live Demo
 
-**🌐 [Click here to visit the deployed site]([https://your-vercel-url.vercel.app](https://larabelle-frontend.vercel.app/))** 
-**🌐 [Click here to visit the deployed admin dashboard]([https://your-vercel-url.vercel.app]((https://larabelle-admin.vercel.app/)))** 
+**🌐 [Click here to visit the deployed site]((https://larabelle-frontend.vercel.app/))** 
+**🌐 [Click here to visit the deployed admin dashboard](((https://larabelle-admin.vercel.app/)))** 
 
 ---
 
