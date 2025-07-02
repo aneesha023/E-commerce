@@ -1,8 +1,8 @@
 # 🛍️ MERN E-Commerce Website
 
-[![Live Demo](https://img.shields.io/badge/-Live%20Demo-0E76A8?style=for-the-badge&logo=vercel&logoColor=white)](https://your-vercel-url.vercel.app)
-[![GitHub](https://img.shields.io/github/stars/aneesha023/ecommerce-mern?style=for-the-badge)](https://github.com/aneesha023/ecommerce-mern/stargazers)
-[![Issues](https://img.shields.io/github/issues/aneesha023/ecommerce-mern?style=for-the-badge)](https://github.com/aneesha023/ecommerce-mern/issues)
+[![Live Demo](https://img.shields.io/badge/-Live%20Demo-0E76A8?style=for-the-badge&logo=vercel&logoColor=white)](https://[your-vercel-url.vercel.app](https://larabelle-frontend.vercel.app/))
+[![GitHub](https://img.shields.io/github/stars/aneesha023/ecommerce-mern?style=for-the-badge)](https://github.com/aneesha023/E-commerce/stargazers)
+[![Issues](https://img.shields.io/github/issues/aneesha023/ecommerce-mern?style=for-the-badge)](https://github.com/aneesha023/E-commerce/issues)
 
 > A modern, fully responsive e-commerce website built using the MERN stack. It features user authentication, product listings, shopping cart, and an admin dashboard — all wrapped in a sleek UI with light/dark theme toggle.
 
@@ -22,8 +22,8 @@
 
 ## 🚀 Live Demo
 
-**🌐 [Click here to visit the deployed site](https://your-vercel-url.vercel.app)**  
-*(Replace this with your actual Vercel deployment URL)*
+**🌐 [Click here to visit the deployed site]([https://your-vercel-url.vercel.app](https://larabelle-frontend.vercel.app/))** 
+**🌐 [Click here to visit the deployed admin dashboard]([https://your-vercel-url.vercel.app]((https://larabelle-admin.vercel.app/)))** 
 
 ---
 
@@ -44,15 +44,15 @@
 ---
 
 ## 📬 Contact
-Aneesha Varma
-📧 aneeshavarma23@gmail.com
-🔗 LinkedIn
-💻 GitHub
+- Aneesha Varma
+- 📧 aneeshavarma23@gmail.com
+- 🔗 LinkedIn
+- 💻 GitHub
 
 ---
 
 ## ⭐ Acknowledgments
-React & Tailwind CSS Docs
-MongoDB Atlas
-Vercel for free deployment
-Open Source inspirations
+- React & Tailwind CSS Docs
+- MongoDB Atlas
+- Vercel for free deployment
+- Open Source inspirations
