@@ -37,10 +37,14 @@
 
 ## 📸 Screenshots
 
-| Home | Product Page | Cart | Admin Dashboard |
+| Home | Collections | Product Page | Cart |
 |------|--------------|------|------------------|
-| ![Home](./screenshots/home.png) | ![Collections](./screenshots/collections.png) | ![Product](./screenshots/product.png) | ![Cart](./screenshots/cart.png) | ![Admin-AddItems](./screenshots/admin1.png) | ![Admin-ListItems](./screenshots/admin2.png) | ![Admin-Orders](./admin3/home.png)
+| ![Home](./screenshots/home.png) | ![Collections](./screenshots/collections.png) | ![Product](./screenshots/product.png) | ![Cart](./screenshots/cart.png) |
 
+| Admin-AddItems | Admin-ListItems | Admin-Orders |
+|------|--------------|------|------------------|
+ ![Admin-AddItems](./screenshots/admin1.png) | ![Admin-ListItems](./screenshots/admin2.png) | ![Admin-Orders](./admin3/home.png) |
+ 
 ---
 
 ## 📬 Contact
