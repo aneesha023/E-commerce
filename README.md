@@ -42,7 +42,7 @@
 | ![Home](./screenshots/home.png) | ![Collections](./screenshots/collections.png) | ![Product](./screenshots/product.png) | ![Cart](./screenshots/cart.png) |
 
 | Admin-AddItems | Admin-ListItems | Admin-Orders |
-|------|--------------|------|------------------|
+|----------------|-----------------|------------------|
 | ![Admin-AddItems](./screenshots/admin1.png) | ![Admin-ListItems](./screenshots/admin2.png) | ![Admin-Orders](./admin3.png) |
  
 ---
